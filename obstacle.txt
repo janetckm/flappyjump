@@ -1,3 +1,5 @@
+
+
 # set obstacle
 OBSTACLE_WIDTH = 70
 #height of top obstacle
